@@ -24,8 +24,7 @@
   },
   "include": [
     "**/*",
-    ".medusa/types/*",
-    "src/**/*", "medusa-config.ts"
+    ".medusa/types/*"
   ],
   "exclude": [
     "node_modules",
